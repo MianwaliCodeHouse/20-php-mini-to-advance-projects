@@ -1,21 +1,51 @@
-Registeration System
-Login System
-Logout System
-Password Manager
-Quiz App
-Blog Posts App
-Expense Tracker
-Contact Form
-Todo List App
-CRUD API
-URL Shortener
-CRUD App with Images
-File Sharing App
-ChatApp
-ChatGPT Clone
-Login with Google
-Distance Calculator
-Add to Cart System
-Products Payments System
-E-commerce Store
 
+20 PHP min projects to advance projects
+
+-->Registeration System
+-->Login System
+-->Logout System
+-->Password Manager
+-->Quiz App
+-->Blog Posts App
+-->Expense Tracker
+-->Contact Form
+-->Todo List App
+-->CRUD API
+-->URL Shortener
+-->CRUD App with Images
+-->File Sharing App
+-->ChatApp
+-->ChatGPT Clone
+-->Login with Google
+-->Distance Calculator
+-->Add to Cart System
+-->Products Payments System
+-->E-commerce Store
+
+
+------------
+
+Benefits of This Series:
+1) You can download all projects source code
+2) We use ChatGPT and Open Fly AI Tools to build these projects 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------
